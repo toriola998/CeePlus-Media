@@ -21,7 +21,7 @@ links.forEach(link => {
 });
  
 
-/**Update the year automatically*/
+/**Update the copyright year automatically*/
 const date = document.getElementById("date");
 date.innerHTML = new Date().getFullYear();
 
